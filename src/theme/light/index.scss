@@ -1,0 +1,6 @@
+@use "colors";
+
+body.mac,
+body.mac-light {
+  --text-color: #{colors.$text-color};
+}

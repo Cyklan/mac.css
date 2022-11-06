@@ -1,0 +1,5 @@
+@use "colors";
+
+.mac-dark {
+  --text-color: #{colors.$text-color};
+}

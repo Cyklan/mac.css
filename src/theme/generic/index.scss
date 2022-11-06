@@ -1,0 +1,7 @@
+@use "colors";
+
+:root {
+  --nav-close-color: #{colors.$nav-close-color};
+  --nav-minimize-color: #{colors.$nav-minimize-color};
+  --nav-maximize-color: #{colors.$nav-maximize-color};
+}

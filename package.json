@@ -1,6 +1,6 @@
 {
   "name": "mac.css",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Bringing Mac OS X to the web",
   "main": "dist/index.css",
   "scripts": {
